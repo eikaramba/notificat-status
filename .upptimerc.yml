@@ -15,6 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.notific.at
   #baseUrl: /notificat-status
+  faviconSvg: https://raw.githubusercontent.com/eikaramba/notificat-status/master/assets/notificat.svg
   logoUrl: https://raw.githubusercontent.com/eikaramba/notificat-status/master/assets/notificat.svg
   name: Notific.at Status
   introTitle: "**Uptime Status** for the Notific.at IoT Services."
