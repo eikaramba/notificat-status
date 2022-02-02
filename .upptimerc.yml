@@ -16,6 +16,7 @@ status-website:
   cname: status.notific.at
   #baseUrl: /notificat-status
   faviconSvg: https://raw.githubusercontent.com/eikaramba/notificat-status/master/assets/notificat.svg
+  favicon: https://raw.githubusercontent.com/eikaramba/notificat-status/master/assets/notificat.png
   logoUrl: https://raw.githubusercontent.com/eikaramba/notificat-status/master/assets/notificat.svg
   name: Notific.at Status
   introTitle: "**Uptime Status** for the Notificat IoT Services."
