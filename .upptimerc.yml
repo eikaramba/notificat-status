@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /notificat-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/eikaramba/notificat-status/master/assets/notificat.svg
   name: Notific.at Status
   introTitle: "**Uptime Status** for the Notific.at IoT Services."
   introMessage: For more infos see [**Notific.at**](https://notific.at)
