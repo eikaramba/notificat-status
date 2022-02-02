@@ -4,18 +4,20 @@
     "url": "https://notific.at",
     "icon": "https://favicons.githubusercontent.com/notific.at",
     "slug": "frontpage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 781,
-    "timeDay": 781,
-    "timeWeek": 781,
-    "timeMonth": 781,
-    "timeYear": 781,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 754,
+    "timeDay": 754,
+    "timeWeek": 754,
+    "timeMonth": 754,
+    "timeYear": 754,
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "API Server",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 280,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   }
 ]
