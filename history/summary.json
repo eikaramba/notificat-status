@@ -25,18 +25,19 @@
     "url": "https://notific.at/api/server/health",
     "icon": "https://favicons.githubusercontent.com/notific.at",
     "slug": "api-server",
-    "status": "up",
-    "uptime": "99.92%",
+    "status": "down",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 260,
-    "timeDay": 304,
-    "timeWeek": 302,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 254,
+    "timeDay": 213,
+    "timeWeek": 280,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {
+      "2022-02-16": 0,
       "2022-02-04": 15
     }
   }
