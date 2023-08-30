@@ -1,7 +1,7 @@
 url: https://notific.at/api/server/health
-status: down
-code: 502
-responseTime: 96
-lastUpdated: 2023-08-30T19:20:35.043Z
+status: up
+code: 200
+responseTime: 256
+lastUpdated: 2023-08-30T19:35:41.401Z
 startTime: 2022-02-02T10:36:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
